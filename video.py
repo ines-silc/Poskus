@@ -1,4 +1,4 @@
 import sys
 
 def neki_video():
-    return None
+    return "Končna verzija"
